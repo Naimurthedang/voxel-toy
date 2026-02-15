@@ -1,0 +1,8 @@
+{
+  "name": "Voxel Toy Box Pro",
+  "description": "Professional 3D product visualization, AI-powered image editing, and video understanding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
